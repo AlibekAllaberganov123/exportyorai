@@ -1,0 +1,7 @@
+{
+  "model": "deepseek-v4-flash-0731",
+  "messages": [
+    {"role": "user", "content": "Assalomu alaykum"}
+  ],
+  "max_tokens": 100
+}
